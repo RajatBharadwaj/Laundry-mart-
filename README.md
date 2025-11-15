@@ -1,2 +1,2 @@
-# Laundry-mart-
-It's my first assignment 
+# Laundry-mart
+It's my first HTML assignment 
